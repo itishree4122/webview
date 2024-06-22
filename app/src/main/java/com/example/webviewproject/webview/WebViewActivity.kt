@@ -48,7 +48,7 @@ class WebViewActivity : AppCompatActivity() {
             }
         }
 
-        binding.webView.loadUrl("https://www.makemytrip.com/")
+        binding.webView.loadUrl("https://www.primevideo.com/")
     }
 
     override fun onBackPressed() {
